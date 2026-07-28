@@ -6,7 +6,7 @@
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-benchmark-EB5E28)
 ![SQLite](https://img.shields.io/badge/SQLite-storage-003B57?logo=sqlite&logoColor=white)
-![tests](https://github.com/PLACEHOLDER_USERNAME/Cross-Sell-NPV-Model/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/AmanDataGuy/Cross-Sell-NPV-Model/actions/workflows/tests.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 Predicts which bank customers will take the next product (a term deposit), proves *statistically*
@@ -15,8 +15,6 @@ dollar figure via an NPV model — the same shape of problem as FischerJordan's 
 ["Models for Long-Term Profitability"](https://fischerjordan.com/using-customer-data-to-develop-models-for-long-term-profitability/)
 (40% NPV lift, $1B incremental spend). Real data, Python end-to-end, no LLM — the value here is
 statistical rigor, not novelty.
-
-> Replace `PLACEHOLDER_USERNAME` in the badge URL above with your GitHub username once pushed.
 
 ## The business question
 
