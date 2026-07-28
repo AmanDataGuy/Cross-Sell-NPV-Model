@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data / DB / intermediate outputs (regenerable; see data/README.md)
+data/raw/
+db/*.db
+outputs/
+.venv/
+
+# Internal planning doc - not part of the shipped analysis
+Project-2-Cross-Sell-NPV-Model.md
